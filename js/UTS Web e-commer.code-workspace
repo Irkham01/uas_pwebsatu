@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Desktop/Beajar javascript"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Beajar javascript"
+  }
+}
